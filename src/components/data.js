@@ -9,7 +9,7 @@ export const projects = [
   },
   {
     title: "Weyz Clothing",
-    src: "/images/3.png"
+    src: "/images/3.jpg"
   },
   {
     title: "Brouillon",
@@ -22,5 +22,13 @@ export const projects = [
   {
     title: "FMR",
     src: "/images/6.webp"
+  },
+  {
+    title: "Amoses",
+    src: "/images/7.jpg"
+  },
+  {
+    title: "Divin By Divin",
+    src: "/images/8.jpg"
   }
 ]

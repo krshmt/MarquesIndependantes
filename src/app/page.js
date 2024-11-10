@@ -19,8 +19,10 @@ export default function Home() {
 
   return (
     <main>
-      <Scene activeMenu={activeMenu}/>  
+      <div className="h-[20vh]"></div>
+      <Scene activeMenu={activeMenu}/>
       <Projects setActiveMenu={setActiveMenu}/>
+      <div className="h-[20vh]"></div>
     </main>
   );
 }
